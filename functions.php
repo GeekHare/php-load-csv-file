@@ -1,4 +1,10 @@
 <?php
+/**
+ * Author: GeekHare
+ * Email: inbox@geekhare.me
+ * Website: https://geekhare.me
+ * GitHub: https://github.com/GeekHare/php-load-csv-file
+ */
 
 /**
  * Load csv file to array
