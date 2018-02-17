@@ -26,6 +26,10 @@
             echo '    <td>Col2</td>';
             echo '</tr>';
 
+            echo "<pre>";
+            var_dump($csv_data);
+            echo "</pre>";
+
             // Display data
             foreach ($csv_data AS $value)
             {
