@@ -5,7 +5,7 @@
     require_once 'functions.php';
 ```
 
-#### 2. Загрузите файл CSV с мобощью функции **load_csv_to_array()**. 2-м параметром нужно указать разделитель данных.
+#### 2. Загрузите файл CSV с помощью функции **load_csv_to_array()**. Укажите путь к файлу и символ (разделитель) данных
 ```php
     $csv_data = load_csv_to_array('data-from-excel.csv', ',');
 ```
